@@ -629,7 +629,7 @@ types.
 
     // SPDX-License-Identifier: GPL-3.0
     pragma solidity >=0.5.0;
-    pragma experimental ABIEncoderV2;
+    pragma abicoder v2;
     pragma experimental SMTChecker;
     // This will report a warning
 
